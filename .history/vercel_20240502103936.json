@@ -1,0 +1,9 @@
+{
+  "rewtites": [
+    {
+      "source": "/api/(.*)",
+      "destination": "/api"
+
+    }
+  ]
+}
